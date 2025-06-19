@@ -1,10 +1,10 @@
-# Assignment 1 – Biz Optime ✈️🌍
+# Assignment 1 – Biz Optima ✈️🌍
 
-**Biz Optime** is a travel business website built as part of **Assignment 1** for **CSCI 571: Web Technologies**.
+**Biz Optima** is a travel business website built as part of **Assignment 1** for **CSCI 571: Web Technologies**.
 
 ## 🌐 Overview
 
-Biz Optime is a static website designed to promote a fictional travel business. The goal was to create a visually appealing and structured landing page using only **HTML** and **CSS**, without the use of JavaScript or external libraries.
+Biz Optima is a static website designed to promote a fictional travel business. The goal was to create a visually appealing and structured landing page using only **HTML** and **CSS**, without the use of JavaScript or external libraries.
 
 ## 🛠️ Tech Stack
 
