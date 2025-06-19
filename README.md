@@ -21,7 +21,7 @@ Biz Optima is a static website designed to promote a fictional travel business. 
 
 ## 📁 File Structure
 
-- 'page1.html' – Main homepage of the Biz Optime site
-- 'page2.html' - Second page hyperlinked on the Main Page
+- `page1.html` – Main homepage of the Biz Optime site
+- `page2.html` - Second page hyperlinked on the Main Page
 - `style.css` – Custom styles used for layout, fonts, and visuals
 - `.png/.jpg` files – Images and Icons used
